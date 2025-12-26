@@ -1,0 +1,6 @@
+[submodule "neoforge"]
+	path = neoforge
+	url = https://github.com/Son1kXDev/EnderpearlBackportNeoforge
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/Son1kXDev/EnderPearlBackportFabric.git
