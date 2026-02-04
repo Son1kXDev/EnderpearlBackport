@@ -9,8 +9,8 @@ Source code is split by mod loader.
 
 ## Source Code
 
-- **NeoForge version:** [`/neoforge`](./neoforge)
-- **Fabric version:** [`/fabric`](./fabric)
+- **NeoForge version:** [`/neoforge`](https://github.com/Son1kXDev/EnderpearlBackportNeoforge)
+- **Fabric version:** [`/fabric`](https://github.com/Son1kXDev/EnderPearlBackportFabric)
 
 ---
 
